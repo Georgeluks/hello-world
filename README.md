@@ -1,2 +1,5 @@
 # hello-world
-First repository, as usual
+
+Hello There
+
+I'm George Lucas and Greedo Shoot First
